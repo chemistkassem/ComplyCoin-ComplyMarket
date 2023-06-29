@@ -1,0 +1,25 @@
+{
+  "name": "complycoin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chemistkassem/ComplyCoin2023.git"
+  },
+  "author": "Usama Latif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chemistkassem/ComplyCoin2023/issues"
+  },
+  "homepage": "https://github.com/chemistkassem/ComplyCoin2023#readme",
+  "dependencies": {
+    "hardhat": "^2.15.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0"
+  }
+}
